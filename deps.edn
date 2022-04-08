@@ -1,8 +1,5 @@
 {:paths ["src" "test"]
- :deps {org.clojure/clojure {:mvn/version "1.10.1"}
-        org.clojure/clojurescript {:mvn/version "1.10.866"}
-        org.clojure/core.async {:mvn/version "0.7.559"}
-        keechma/next {:mvn/version "0.1.3"}
+ :deps {keechma/next {:mvn/version "0.1.3"}
         keechma/router {:mvn/version "1.0.0"}
         Cukac/keechma.next.toolbox-lite {:git/url "https://github.com/Cukac/keechma.next.toolbox-lite"
-                                         :sha "28e2d4c9f8393170bd493d0a7aaab35a2ba81ed7"}}}
+                                         :sha "51d6c06a66c266f0bdf7d20c06c07ee61cc18222"}}}
